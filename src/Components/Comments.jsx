@@ -76,6 +76,7 @@ function Comments({ currentUserId }) {
             currentUserId={currentUserId}
             deleteComment={deleteComment}
             addComment={addComment}
+            updateComment={updateComment}
             activeComment={activeComment}
             setActiveComment={setActiveComment}
           />

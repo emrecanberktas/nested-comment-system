@@ -7,6 +7,7 @@ function Comment({
   replies,
   currentUserId,
   deleteComment,
+  updateComment,
   addComment,
   activeComment,
   setActiveComment,
